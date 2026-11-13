@@ -9,6 +9,8 @@ Seleção editorial consultada em **19/10/2026**. A inclusão indica pertinênci
 | [MITRE Engage](https://engage.mitre.org/) | Planejamento de engajamento e deception; usar para definir objetivos antes das iscas. |
 | [NIST SSDF](https://csrc.nist.gov/projects/ssdf) | Práticas de desenvolvimento seguro ao longo do ciclo de software. |
 
+Lista completa por categoria (detecção, inteligência, modelagem de ameaças, telecom/5G): [Catálogo de frameworks](CATALOGO.md).
+
 ## Antes de reutilizar
 
 Acesse a fonte original, registre versão/data e confira licença, requisitos e limitações. Este repositório fornece descrições autorais e links; não redistribui o conteúdo dessas fontes.

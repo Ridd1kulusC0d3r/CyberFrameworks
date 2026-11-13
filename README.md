@@ -6,7 +6,7 @@
 
 Comparar frameworks, padrões e modelos de segurança por problema, escopo, artefato de saída e limites de aplicação.
 
-[Comece aqui](docs/COMECE-AQUI.md) · [Referências comentadas](docs/REFERENCIAS.md) · [Identidade visual](docs/IDENTIDADE-VISUAL.md) · [Caso guiado](examples/caso-01.md) · [Modelo de trabalho](templates/ficha.md)
+[Comece aqui](docs/COMECE-AQUI.md) · [Catálogo de frameworks](docs/CATALOGO.md) · [Referências comentadas](docs/REFERENCIAS.md) · [Identidade visual](docs/IDENTIDADE-VISUAL.md) · [Caso guiado](examples/caso-01.md) · [Modelo de trabalho](templates/ficha.md)
 
 ## Objetivo e fronteiras
 

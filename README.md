@@ -1,4 +1,10 @@
-<p align="center"><img src="assets/identity/banner.svg" alt="Cyber Frameworks — Escolha o modelo pela decisão." width="100%"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/identity/banner-dark.svg"><img src="assets/identity/banner.svg" alt="Cyber Frameworks — Escolha o modelo pela decisão." width="100%"></picture></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/cat%C3%A1logo-26%20recursos-b43c0e?style=flat-square&labelColor=17150f" alt="Catálogo: 26 recursos">
+  <img src="https://img.shields.io/badge/modo-decis%C3%A3o--primeiro-4a463c?style=flat-square&labelColor=17150f" alt="Modo: decisão primeiro">
+  <img src="https://img.shields.io/badge/TLP-CLEAR-4a463c?style=flat-square&labelColor=17150f" alt="TLP:CLEAR">
+</p>
 
 # Cyber Frameworks
 
